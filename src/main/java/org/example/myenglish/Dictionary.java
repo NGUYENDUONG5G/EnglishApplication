@@ -33,7 +33,7 @@ public class Dictionary {
         }
 
 
-        try (BufferedWriter fw = new BufferedWriter(new FileWriter("D:\\MyEnglish\\src\\main\\resources\\listWord.txt"))) {
+        try (BufferedWriter fw = new BufferedWriter(new FileWriter("D:\\MyEnglish\\src\\main\\resources\\listWord.txt",true))) {
             fw.write(word.getWord());
             fw.write("\t");
             fw.write(word.getPronunciation());

@@ -8,3 +8,4 @@ eat	/iːt/	verb	ăn
 big	/bɪɡ/	adj	to, lớn
 slowly	/ˈsləʊli/	adv	chậm rãi
 dog	/dɔːɡ/	noun	con chó
+blossom	/ˈblosəm/	noun	hoa đào
