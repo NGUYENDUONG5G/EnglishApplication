@@ -1,0 +1,10 @@
+happy	/ˈhæpi/	adj	vui vẻ, hạnh phúc
+run	/rʌn/	verb	chạy
+book	/bʊk/	noun	sách
+beautiful	/ˈbjuːtɪfl/	adj	xinh đẹp
+quickly	/ˈkwɪkli/	adv	nhanh chóng
+teacher	/ˈtiːtʃər/	noun	giáo viên
+eat	/iːt/	verb	ăn
+big	/bɪɡ/	adj	to, lớn
+slowly	/ˈsləʊli/	adv	chậm rãi
+dog	/dɔːɡ/	noun	con chó
