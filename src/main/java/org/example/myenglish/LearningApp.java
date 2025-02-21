@@ -15,10 +15,10 @@ public class LearningApp {
     }
 
     public String wordProvider() {
-        if(usedWord.keySet().size()==dictionary.getDict().size()) return null;
-        if (dictionary.getDict().isEmpty()) return null;
+        if(usedWord.keySet().size()==dictionary.getDictWord().size()) return null;
+        if (dictionary.getDictWord().isEmpty()) return null;
 
-        List<String> keys = new ArrayList<>(dictionary.getDict().keySet());
+        List<String> keys = new ArrayList<>(dictionary.getDictMean().keySet());
         String randomKey = keys.get(random.nextInt(keys.size()));
         while (usedWord.containsKey(randomKey)) {
             randomKey = keys.get(random.nextInt(keys.size()));
@@ -29,9 +29,9 @@ public class LearningApp {
     }
     public boolean enterWord(String name,String content){
         if(content.isEmpty()) return false;
-        Word word=dictionary.getDict().get(name);
+        Word word=dictionary.getDictMean().get(name);
 
-        if(!word.getMeaning().equals(content)) {
+        if(!word.getWord().equals(content)) {
             word.setMistakeMeaning(content);
             mistakeMemory.add(word);
         }

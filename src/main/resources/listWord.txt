@@ -1,11 +1,2009 @@
-happy	/ˈhæpi/	adj	vui vẻ, hạnh phúc
-run	/rʌn/	verb	chạy
-book	/bʊk/	noun	sách
-beautiful	/ˈbjuːtɪfl/	adj	xinh đẹp
-quickly	/ˈkwɪkli/	adv	nhanh chóng
-teacher	/ˈtiːtʃər/	noun	giáo viên
-eat	/iːt/	verb	ăn
-big	/bɪɡ/	adj	to, lớn
-slowly	/ˈsləʊli/	adv	chậm rãi
-dog	/dɔːɡ/	noun	con chó
 blossom	/ˈblosəm/	noun	hoa đào
+signal	/ˈsiɡnəl/	noun	tín hiệu
+artificial intelligence	/ˌɑːr.t̬ə.fɪʃ.əl ɪnˈtel.ə.dʒəns/	noun	trí tuệ nhân tạo
+protocol	/ˈproʊ.t̬ə.kɑːl/	noun	giao thức
+switch	/switʃ/	noun	sự di chuyển
+circuit	/ˈsəːkit/	noun	mạch
+layer	/ˈleɪ.ɚ/	noun	lớp
+rate	/reit/	noun	tỷ lệ, tốc độ
+standard	/ˈstæn.dɚd/	noun	tiêu chuẩn
+transmission	/trænˈsmɪʃ.ən/	noun	truyền đi
+residential	/ˌrez.əˈden.ʃəl/	adj	thuộc về dân cư
+ability	/əˈbɪl.ə.t̬i/	n	năng lực, khả năng
+abroad	/əˈbrɑːd/	adv	ở nước ngoài
+accept	/əkˈsept/	v	chấp nhận, chấp thuận
+access	/ˈæk.ses/	n, v	quyền truy cập, sự tiếp cận; truy cập
+accessible	/əkˈses.ə.bəl/	adj	khả năng tiếp cận được
+accident	/ˈæk.sə.dənt/	n	tai nạn, sự tình cờ
+accommodate	/əˈkɑː.mə.deɪt/	v	dàn xếp, hỗ trợ
+accommodation	/əˌkɑː.məˈdeɪ.ʃən/	n	chỗ ở, nơi ở; sự điều tiết, hòa giải
+accomplish	/əˈkɑːm.plɪʃ/	v	hoàn thành, thực hiện
+according (to)	/əˈkɔːr.dɪŋ ˌtuː/	prep	theo như, dựa vào
+accordingly	/əˈkɔːr.dɪŋ.li/	adv	theo đó, vì vậy
+accounting	/əˈkaʊn.t̬ɪŋ/	n	sự tính toán, thanh toán
+accurate	/ˈæk.jɚ.ət/	adj	đúng đắn, chính xác
+achieve	/əˈtʃiːv/	v	đạt được, giành được
+acquire	/əˈkwaɪɚ/	v	thu nạp được, giành được
+act	/ækt/	n, v	hành động; thực hiện
+actually	/ˈæk.tʃu.ə.li/	adv	thực sự, trên thực tế
+adapt	/əˈdæpt/	v	thích nghi, thích ứng
+adapter	/əˈdæp.tɚ/	n	thiết bị chuyển đổi, người điều chỉnh tác phẩm (để phù hợp hơn)
+additional	/əˈdɪʃ.ən.əl/	adj	thêm vào, phụ thêm
+adjust	/əˈdʒʌst/	v	điều chỉnh
+adjustment	/əˈdʒʌst.mənt/	n	sự điều chỉnh, sự thay đổi
+administration	/ədˌmɪn.əˈstreɪ.ʃən/	n	sự quản lý, quản trị
+admire	/ədˈmaɪr/	v	ngưỡng mộ, thán phục
+admit	/ədˈmɪt/	v	thừa nhận; tiếp nhận
+admittance	/ədˈmɪt̬.əns/	n	sự thu nạp, đón nhận
+adopt	/əˈdɑːpt/	v	nhân nuôilàm theo, áp dụng
+advance	/ədˈvæns/	n, v	sự tiến lên; tiến lên phía trước
+advanced	/ədˈvænst/	adj	tiến bộ, cấp tiến
+advantage	/ədˈvæn.t̬ɪdʒ/	n	lợi thế
+advantageous	/ˌæd.vænˈteɪ.dʒəs/	adj	có lợi, thuận lợi
+advertise	/ˈæd.vɚ.taɪz/	v	quảng cáo, thông báo
+advertisement	/æd.vɝːˈtaɪz.mənt/	n	bản tin quảng cáo
+advice	/ədˈvaɪs/	n	lời khuyên, lời chỉ bảo
+advise	/ədˈvaɪz/	v	đưa ra lời khuyên
+affect	/əˈfekt/	v	ảnh hưởng, tác động
+afford	/əˈfɔːrd/	v	có khả năng, đủ điều kiện; ban phát, cấp phát
+affordable	/əˈfɔːr.də.bəl/	adj	có khả năng chi trả, vừa túi tiền
+agency	/ˈeɪ.dʒən.si/	n	đại lý, bên môi giới trung gian
+agenda	/əˈdʒen.də/	n	chương trình nghị sự, kế hoạch chương trình
+agree	/əˈɡriː/	v	đồng ý, tán thành
+agreeable	/əˈɡriː.ə.bəl/	adj	dễ chịu; thích hợp với
+agreement	/əˈɡriː.mənt/	n	hợp đồng, giao kèo
+agricultural	/ˌæɡ.rəˈkʌl.tʃɚ.əl/	adj	(thuộc) nông nghiệp
+aid	/eɪd/	n, v	sự giúp đỡ; cứu trợ, viện trợ
+aim	/eɪm/	n, v	mục tiêu; nhắm đến, hướng đến
+airline	/ˈer.laɪn/	n	công ty hàng không
+aisle	/aɪl/	n	gian hàng, lối đi giữa các dãy ghế
+alarm	/əˈlɑːrm/	n	sự báo động; báo động
+allow	/əˈlaʊ/	v	cho phép, để cho
+alternative	/ɑːlˈtɝː.nə.t̬ɪv/	adj	xen kẽ, luân phiên
+ambitious	/æmˈbɪʃ.əs/	adj	tham vọng
+amend	/əˈmend/	v	sửa chữa, cải tạo
+amount	/əˈmaʊnt/	n, v	số lượng; cộng dồn lên tới
+amusing	/əˈmjuː.zɪŋ/	adj	vui, có tính hài hước
+analysis	/əˈnæl.ə.sɪs/	n	sự phân tích, bản phân tích
+analyze	/ˈæn.əl.aɪz/	v	phân tích
+annual	/ˈæn.ju.əl/	adj	hằng năm
+anticipate	/ænˈtɪs.ə.peɪt/	v	phỏng đoán, dự đoán
+anxious	/ˈæŋk.ʃəs/	adj	bồn chồn, lo lắng
+apologize	/əˈpɑː.lə.dʒaɪz/	v	xin lỗi
+appeal	/əˈpiːl/	n, v	lời thỉnh cầu, sức lôi cuốn; kêu gọi, hấp dẫn
+appetizer	/ˈæp.ə.taɪ.zɚ/	n	món khai vị
+appliance	/əˈplaɪ.əns/	n	thiết bị, dụng cụ
+applicant	/ˈæp.lə.kənt/	n	người ứng tuyển, nguyên cáo
+application	/ˌæp.ləˈkeɪ.ʃən/	n	ứng dụng, sự áp dụng
+apply	/əˈplaɪ/	v	áp dụng, ứng tuyển
+appoint	/əˈpɔɪnt/	v	bổ nhiệm, chỉ định
+appointment	/əˈpɔɪnt.mənt/	n	sự bổ nhiệm, cuộc hẹn gặp
+appreciable	/əˈpriː.ʃə.bəl/	adj	đáng kể
+appreciate	/əˈpriː.ʃi.eɪt/	v	đánh giá cao, cảm kích
+appreciation	/əˌpriː.ʃiˈeɪ.ʃən/	n	sự đánh giá cao, sự cảm kích
+appreciative of	/əˈpriː.ʃə.t̬ɪv/	adj	đánh giá cao, ghi nhận
+apprentice	/əˈpren.t̬ɪs/	n	người học việc
+approve	/əˈpruːv/	v	tán thành, phê chuẩn
+approximate	/əˈprɑːk.sə.mət/	adj	xấp xỉ, gần đúng
+arbitrate	/ˈɑːr.bə.treɪt/	v	phân xử, làm trọng tài
+area	/ˈer.i.ə/	n	khu vực, lĩnh vực, diện tích
+argue	/ˈɑːrɡ.juː/	v	tranh cãi, tranh luận
+argument	/ˈɑːrɡ.jə.mənt/	n	cuộc tranh luận
+arrange	/əˈreɪndʒ/	v	dàn xếp, sắp đặt
+arrangement	/əˈreɪndʒ.mənt/	n	sự sắp đặt
+assemble	/əˈsem.bəl/	v	lắp ráp, thu thập
+assess	/əˈses/	v	đánh giá, định giá
+asset	/ˈæs.et/	n	của cải, tài sản, vốn quý
+assign	/əˈsaɪn/	v	phân công, chia việc
+assignment	/əˈsaɪn.mənt/	n	sự phân việc, bài tập tiểu luận
+assist	/əˈsɪst/	v	hỗ trợ, giúp đỡ
+assistance	/əˈsɪs.təns/	n	sự giúp đỡ, hỗ trợ
+assume	/əˈsuːm/	v	cho rằng, làm ra vẻ
+attach	/əˈtætʃ/	v	gán thêm, kèm thêm
+attachment	/əˈtætʃ.mənt/	n	sự gắn thêm; phần kèm thêm
+attend	/əˈtend/	v	tham dự
+attendance	/əˈten.dəns/	n	sự tham gia, có mặt
+attract	/əˈtrækt/	v	thu hút, hấp dẫn
+audience	/ˈɑː.di.əns/	n	khán thính giả
+audit	/ˈɑː.dɪt/	n, v	kiểm toán
+authority	/əˈθɔːr.ə.t̬i/	n	quyền thế, nhà chức trách, chính quyền
+authorize	/ˈɑː.θɚ.aɪz/	v	ủy quyền, cấp quyền
+availability	/əˌveɪ.ləˈbɪl.ə.t̬i/	n	tính sẵn có
+available	/əˈveɪ.lə.bəl/	adj	có sẵn để dùng
+avoid	/əˈvɔɪd/	v	tránh xa, ngăn ngừa
+avid	/ˈæv.ɪd/	adj	khao khát, thèm khát
+awareness	/əˈwer.nəs/	n	sự nhận thức, ý thức
+awkward	/ˈɑː.kwɚd/	adj	ngại ngùng, khó xử
+background	/ˈbæk.ɡraʊnd/	n	phông nền, gia cảnh, quá trình học tập
+backpack	/ˈbæk.pæk/	n	ba lô đeo sau lưng
+baggage claim	/ˈbæɡ.ɪdʒ kleɪm/	n	chỗ nhận hành lý
+balance	/ˈbæl.əns/	n	sự cân bằng, trạng thái cân bằng
+bank	/bæŋk/	n	ngân hàng, bãi sông
+bankrupt	/ˈbæŋ.krʌpt/	n, adj	người phá sản; vỡ nợ, phá sản
+bar code	/ˈbɑːr ˌkoʊd/	n	mã vạch
+bargain	/ˈbɑːr.ɡɪn/	n, v	sự mặc cả, món hời; mặc cả, thương lượng
+beautiful	/ˈbjuː.t̬ə.fəl/	adj	xinh đẹp, tốt đẹp
+behave	/bɪˈheɪv/	v	hành xử, cư xử
+belongings	/bɪˈlɑːŋ.ɪŋz/	n	tài sản, đồ dùng cá nhân
+beneficial	/ˌben.əˈfɪʃ.əl/	adj	có ích, có lợi
+benefit	/ˈben.ə.fɪt/	n	ích lợi
+beverage	/ˈbev.ɚ.ɪdʒ/	n	đồ uống, đồ giải khát
+bill	/bɪl/	n	hóa đơn
+binder	/ˈbaɪn.dɚ/	n	bìa ôm, bìa rời
+blanket	/ˈblæŋ.kɪt/	n	chăn, mền
+block	/blɑːk/	n, v	khối, tảng, trướng ngại vật; làm cản trở, phong tỏa
+board	/bɔːrd/	n	tấm ván, bảng, mạn thuyền
+boardroom	/ˈbɔːrd.ruːm/ /ˈbɔːrd.rʊm/	n	phòng họp ban giám đốc
+boast	/boʊst/	n, v	sự khoe khoang; khoác lác
+book	/bʊk/	n, v	cuốn sách; đặt phòng, đặt vé
+boost	/buːst/	v, n	đẩy mạnh, kích thích; sự tăng lên
+bored	/bɔːrd/	adj	buồn chán, tẻ nhạt
+bother	/ˈbɑː.ðɚ/	n, v	điều gây khó chịu; làm phiền, bận tâm
+bottom line	/ˌbɑː.t̬əm ˈlaɪn/	n	điểm mấu chốt, cốt yếu
+branch	/bræntʃ/	n	cành cây, chi nhánh
+brand	/brænd/	n	nhãn hàng, thương hiệu
+briefcase	/ˈbriːf.keɪs/	n	cặp tài liệu
+briefing	/ˈbriː.fɪŋ/	n	sự chỉ dẫn, hướng dẫn
+broadcast	/ˈbrɑːd.kæst/	n, v	chương trình phát thanh; truyền bá, phát thanh
+broaden	/ˈbrɑː.dən/	v	mở rộng, nới rộng
+browser	/ˈbraʊ.zɚ/	n	trình duyệt
+brush	/brʌʃ/	n, v	lược, bàn chải; chải, quét
+budget	/ˈbʌdʒ.ɪt/	n, v	ngân sách; dự thảo ngân sách
+bulletin	/ˈbʊl.ə.t̬ɪn/	n	bảng thông báo, tập san
+cabin crew	/ˈkæb.ɪn ˌkruː/	n	đội bay, tiếp viên hàng không
+cafeteria	/ˌkæf.əˈtɪr.i.ə/	n	quán ăn tự phục vụ, phòng cà
+calculate	/ˈkæl.kjə.leɪt/	v	tính toán, suy tính
+calculation	/ˌkæl.kjəˈleɪ.ʃən/	n	sự tính toán
+calculator	/ˈkæl.kjə.leɪ.t̬ɚ/	n	máy tính bỏ túi
+campaign	/kæmˈpeɪn/	n	chiến dịch, cuộc vận động
+cancel	/ˈkæn.səl/	v	hủy bỏ, xóa
+cancellation	/ˌkæn.səlˈeɪ.ʃən/	n	sự xóa bỏ, bãi bỏ
+candidacy	/ˈkæn.dɪ.də.si/	n	sự ứng cử
+candidate	/ˈkæn.dɪ.dət/	n	ứng cử viên
+capacity	/kəˈpæs.ə.t̬i/	n	năng lực, sức chứa
+capital	/ˈkæp.ə.t̬əl/	n	thủ đô, nguồn vốn, chữ viết ho
+career	/kəˈrɪr/	n	sự nghiệp
+careless	/ˈker.ləs/	adj	bất cẩn, cẩu thả
+cash	/kæʃ/	n	tiền mặt
+cashier	/kæʃˈɪr/	n	nhân viên thu ngân
+cause	/kɑːz/	n, v	nguyên nhân, lý do; gây ra
+cautious	/ˈkɑː.ʃəs/	adj	thận trọng, cẩn thận
+celebrate	/ˈsel.ə.breɪt/	v	kỉ niệm, tán dương
+celebration	/ˌsel.əˈbreɪ.ʃən/	n	lễ kỉ niệm
+certificate	/sɚˈtɪf.ə.kət/	n	giấy chứng nhận
+certification	/ˌsɜ˞ː.t̬ə.fɪˈkeɪ.ʃən/	n	sự cấp giấy chứng nhận
+chain	/tʃeɪn/	n	dây xích, chuỗi
+chain store	/ˈtʃeɪn ˌstɔːr/	n	cửa hàng theo chuỗi, hệ thống
+chair	/tʃer/	n	ghế ngồi
+chairperson	/ˈtʃerˌpɝː.sən/	n	chủ tịch
+characteristic	/ˌker.ək.təˈrɪs.tɪk/	n	đặc điểm, tính cách
+characterize	/ˈker.ək.tɚ.aɪz/	v	biểu thị đặc điểm, mô tả đặc đ
+charge	/tʃɑːrdʒ/	n, v	chi phí, tiền công; tính giá, đòi
+charity	/ˈtʃer.ə.t̬i/	n	lòng từ bi, tổ chức từ thiện
+cheap	/tʃiːp/	adj	rẻ tiền, xấu
+check in	/tʃek ɪn/	v	đăng ký phòng, vé máy bay...
+check out	/tʃek aʊt/	v	trả phòng, thanh toán
+chef	/ʃef/	n	đầu bếp
+circumstances	/ˈsɝː.kəm.stæns/	n	hoàn cảnh, tình huống
+claim	/kleɪm/	n, v	quyền đòi sở hữu; đòi hỏi, nhậ
+claimant	/ˈkleɪ.mənt/	n	người thỉnh cầu, người đòi hỏi
+classify	/ˈklæs.ə.faɪ/	v	phân loại
+client	/ˈklaɪ.ənt/	n	khách hàng (của luật sư, cửa h
+climate	/ˈklaɪ.mət/	n	khí hậu, thời tiết
+commence	/kəˈmens/	v	bắt đầu, mở đầu, khởi đầu
+commission	/kəˈmɪʃ.ən/	n	hội đồng, ủy ban, tiền hoa hồn
+committee	/kəˈmɪt̬.i/	n	ủy ban
+commonly	/ˈkɑː.mən.li/	adv	thông thường, bình thường
+commute	/kəˈmjuːt/	v	thay đổi cho nhau, di chuyển đều đặn bằng tàu, xe...
+commuter	/kəˈmjuː.t̬ɚ/	n	người đi lại bằng vé tháng trên tàu, xe...
+company	/ˈkʌm.pə.ni/	n	công ty, bạn bè, bằng hữu
+compare	/kəmˈper/	v	so sánh, đối chiếu
+compatible	/kəmˈpæt̬.ə.bəl/	adj	tương thích, phù hợp
+compensate	/ˈkɑːm.pən.seɪt/	v	đền bù, bồi thường
+compensation	/ˌkɑːm.penˈseɪ.ʃən/	n	sự đền bù, vật bồi thường
+competent	/ˈkɑːm.pə.t̬ənt/	adj	có khả năng, đủ trình độ
+competitive	/kəmˈpet̬.ə.t̬ɪv/	adj	có tính cạnh tranh, ganh đua
+competitor	/kəmˈpet̬.ə.t̬ɚ/	n	người cạnh tranh, đối thủ
+complain	/kəmˈpleɪn/	v	kêu ca, phàn nàn, oán trách
+complaint	/kəmˈpleɪnt/	n	lời than phiền, lời phàn nàn
+complete	/kəmˈpliːt/	adj	đầy đủ, hoàn thiện
+complex	/ˈkɑːm.pleks/ /kɑːmˈpleks/	n, adj	khu phức hợp; phức tạp
+complexity	/kəmˈplek.sə.t̬i/	n	sự phức tạp
+compliment	/ˈkɑːm.plə.mənt/	n	lời khen, sự ca tụng
+complimentary	/ˌkɑːm.pləˈmen.t̬ɚ.i/	adj	ngợi khen, đánh giá cao
+comply	/kəmˈplaɪ/	v	tuân theo, làm theo
+comprehensive	/ˌkɑːm.prəˈhen.sɪv/	adj	toàn diện, thông minh
+compromise	/ˈkɑːm.prə.maɪz/	n, v	sự thỏa hiệp; dàn xếp, thỏa hiệp
+compulsory	/kəmˈpʌl.sɚ.i/	adj	bắt buộc, ép buộc
+concede	/kənˈsiːd/	v	thừa nhận
+concern	/kənˈsɝːn/	n, v	mối bận tâm, chuyện đáng lo; liên quan, dính líu tới
+conclude	/kənˈkluːd/	v	kết thúc, chấm dứt, kết luận
+conclusion	/kənˈkluː.ʒən/	n	kết luận
+concourse	/ˈkɑːn.kɔːrs/	n	đám đông, sự tụ họp
+condition	/kənˈdɪʃ.ən/	n, v	điều kiện, tình cảnh, tình trạng; là điều kiện của, tùy thuộc vào
+conduct	/ˈkɑːn.dʌkt/ /kənˈdʌkt/	n, v	hạnh kiểm, đạo đức; tiến hành, chỉ đạo
+confirmation	/ˌkɑːn.fɚˈmeɪ.ʃən/	n	sự xác nhận, chứng thực
+confusion	/kənˈfjuː.ʒən/	n	sự bối rối, khó hiểu
+connect	/kəˈnekt/	v	nối lại, kết nối
+consequence	/ˈkɑːn.sə.kwəns/	n	hậu quả, kết quả
+considerable	/kənˈsɪd.ɚ.ə.bəl/	adj	đáng kể, lớn lao
+consignment	/kənˈsaɪn.mənt/	n	hoạt động gửi hàng để bán
+consistently	/kənˈsɪs.tənt.li/	adv	kiên định, trước sau như một, đồng nhất
+constant	/ˈkɑːn.stənt/	adj	liên tục, liên tiếp, kiên trì
+consultant	/kənˈsʌl.tənt/	n	tư vấn viên, cố vấn
+consume	/kənˈsuːm/	v	sử dụng, tiêu dùng, tiêu thụ
+consumer	/kənˈsuː.mɚ/	n	người tiêu dùng
+continual	/kənˈtɪn.ju.əl/	adj	liên tục, liên miên
+continue	/kənˈtɪn.juː/	v	tiếp tục, duy trì
+contribute	/kənˈtrɪb.juːt/	v	đóng góp, góp phần
+control	/kənˈtroʊl/	n, v	sự điều khiển, cầm lái; điều khiển, chỉ huy, kiểm soát
+control panel	/kənˈtroʊl ˌpæn.əl/	n	bảng điều khiển
+conveniently	/kənˈviː.ni.ənt.li/	adv	thuận tiện, tiện lợi
+convince	/kənˈvɪns/	v	thuyết phục
+corporate	/ˈkɔːr.pɚ.ət/	n, v	công ty, tập đoàn; (thuộc) đoàn thể
+corporation	corporation	n	đoàn thể, tập đoàn
+cost	/kɑːst/	n, v	giá, chi phí; định giá, trả giá
+counter	/ˈkaʊn.t̬ɚ/	n, v	quầy hàng, quầy thu ngân; phản đối, chống lại
+courier	/ˈkʊr.i.ɚ/	n	người đưa thư, đưa tin
+cover letter	/ˈkʌv.ə ˌlet.ər/	n	thư trình bày thông tin, nguyện vọng
+coverage	/ˈkʌv.ɚ.ɪdʒ/	n	mức độ bao phủ, che phủ bản tin sự kiện
+coworker	/ˌkoʊˈwɝː.kɚ/	n	đồng nghiệp
+crash	/kræʃ/	n, v	sự va đập, sụp đổ; rơi vỡ, va đập
+credentials	/krɪˈden·ʃəlz/	n	giấy ủy nhiệm, chứng chỉ
+credit	/ˈkred.ɪt/	n	danh tiếng, tín dụng, tín chỉ
+criterion	/kraɪˈtɪr.i.ən/	n	tiêu chí đánh giá
+critical	/ˈkrɪt̬.ɪ.kəl/	adj	phê bình, phê phán nguy kịch
+criticize	/ˈkrɪt̬.ɪ.saɪz/	v	phê bình, chỉ trích
+crowd	/kraʊd/	n, v	đám đông, đống; xúm lại, tụ tập
+crowded	/ˈkraʊ.dɪd/	adj	đông đúc nhiều, đầy
+crucial	/ˈkruː.ʃəl/	adj	có tính quyết định, trọng yếu
+cruise	/kruːz/	n, v	chuyến du lịch, đi chơi trên biển; đi chơi bằng tàu thủy
+currency	/ˈkɝː.ən.si/	n	tiền tệ
+current	/ˈkɝː.ənt/	n, adj	dòng, luồng; hiện tại, hiện thời
+custom	/ˈkʌs.təm/	n	phong tục, tục lệ
+customer	/ˈkʌs.tə.mɚ/	n	khách hàng
+cutting edge	/ˌkʌt̬.ɪŋ ˈedʒ/	adj	đột phá, vượt trội
+cycle	/ˈsaɪ.kəl/	n	chu kỳ, chu trình
+daily	/ˈdeɪ.li/	adj	hằng ngày
+damage	/ˈdæm.ɪdʒ/	n	mối gây hại; làm hại, hư hỏng
+deadline	/ˈded.laɪn/	n	hạn cuối, hạn hoàn thành
+deal	/diːl/	n, v	thỏa thuận mua bán; giải quyết, đối phó
+debit	/ˈdeb.ɪt/	n	món nợ; ghi nợ
+debt	/det/	n	khoản nợ
+decision	/dɪˈsɪʒ.ən/	n	quyết định
+decorate	/ˈdek.ər.eɪt/	v	trang trí, trang hoàng
+decrease	/ˈdiː.kriːs/	n	sự sụt giảm; làm giảm đi
+dedicate	/ˈded.ə.keɪt/	v	cống hiến, tận hiến
+deduct	/dɪˈdʌkt/	v	khấu trừ, trừ đi
+definite	/ˈdef.ən.ət/	adj	xác định rõ, rõ ràng
+definitely	/ˈdef.ən.ət.li/	adv	rõ ràng, dứt khoát, chắc chắn
+degree	/dɪˈɡriː/	n	mức độ, trình độ, cấp bậc độ, nhiệt độ
+delay	/dɪˈleɪ/	n, v	sự chậm trễ, trì hoãn; làm chậm, hoãn lại
+delighted	/dɪˈlaɪ.t̬ɪd/	adj	hài lòng, vui mừng
+deliver	/dɪˈlɪv.ɚ/	v	phân phối, giao hàng, đem tới phát biểu
+delivery	/dɪˈlɪv.ɚ.i/	n	sự phân phát, giao hàng sự phát biểu
+demand	/dɪˈmænd/	n, v	sự đòi hỏi; yêu cầu
+demanding	/dɪˈmæn.dɪŋ/	adj	yêu cầu cao, đòi hỏi khắt khe
+demonstrate	/ˈdem.ən.streɪt/	v	làm mẫu, giải thích biểu tình
+depart	/dɪˈpɑːrt/	v	rời đi từ giã
+department	/dɪˈpɑːrt.mənt/	n	khoa, bộ
+depend	/dɪˈpend/	v	phụ thuộc, lệ thuộc
+dependence	/dɪˈpen.dəns/	n	sự phụ thuộc
+deposit	/dɪˈpɑː.zɪt/	n, v	tiền cọc; đặt cọc
+description	/dɪˈskrɪp.ʃən/	n	bản mô tả, sự mô tả
+designate	/ˈdez.ɪɡ.neɪt/	v	chỉ định, bổ nhiệm
+dessert	/dɪˈzɝːt/	n	món tráng miệng
+destination	/ˌdes.təˈneɪ.ʃən/	n	đích đến, điểm đến dự định
+detail	/ˈdiː.teɪl/	n, v	chi tiết, tiểu tiết; trình bày chi tiết, làm rõ
+detailed	/ˈdiː.teɪld/	adj	chi tiết, cụ thể
+detect	/dɪˈtekt/	v	dò ra, tìm ra, phát hiện
+deterioration	/dɪˌtɪr.i.əˈreɪ.ʃən/	n	sự hư hại, xuống cấp, sa đọa
+determine	/dɪˈtɝː.mɪn/	v	xác định rõ, định rõ quyết định, quyết tâm
+determined	/dɪˈtɝː.mɪnd/	adj	quyết tâm, kiên quyết
+develop	/dɪˈvel.əp/	v	phát triển, tiến triển
+developer	/dɪˈvel.ə.pɚ/	n	người phát triển, lập trình viên
+development	/dɪˈvel.əp.mənt/	n	sự phát triển
+device	/dɪˈvaɪs/	n	thiết bị, máy móc phương sách
+diagnose	/ˌdaɪ.əɡˈnoʊz/	v	chẩn đoán
+differential	/ˌdɪf.əˈren.ʃəl/	adj	khác biệt, chênh lệch
+diligent	/ˈdɪl.ə.dʒənt/	adj	chăm chỉ, cần cù
+director	/daɪˈrek.tɚ/ /dɪˈrek.tɚ/	n	giám đốc, người điều hành, đạo diễn
+disagree	/ˌdɪs.əˈɡriː/	v	bất đồng, không khớp với nhau
+disagreement	/ˌdɪs.əˈɡriː.mənt/	n	sự bất đồng, mối bất hòa, mâu thuẫn
+disappointing	/ˌdɪs.əˈpɔɪn.t̬ɪŋ/	adj	đáng thất vọng
+disconnect	/ˌdɪs.kəˈnekt/	v	ngắt kết nối
+discount	/ˈdɪs.kaʊnt/	n, v	sự giảm giá, chiết khấu; giảm giá, bớt giá
+discrepancy	/dɪˈskrep.ən.si/	n	khác biệt, chênh lệch, điểm không đồng nhất
+discrimination	/dɪˌskrɪm.əˈneɪ.ʃən/	n	sự phân biệt đối xử
+discuss	/dɪˈskʌs/	v	thảo luận, tranh luận
+discussion	/dɪˈskʌʃ.ən/	n	cuộc tranh luận, thảo luận
+dish	/dɪʃ/	n	đĩa đựng thức ăn, món ăn
+dismiss	/dɪˈsmɪs/	v	giải tán, thải hồi
+dismissive	/dɪˈsmɪs.ɪv/	adj	thô bạo, tùy tiện
+display	/dɪˈspleɪ/	n, v	sự bày biện; trưng bày, phô diễn
+disposable	/dɪˈspoʊ.zə.bəl/	adj	dùng một lần, sẵn có để dùng
+dispose	/dɪˈspoʊz/	v	vứt bỏ, giải quyết
+dispute	/dɪˈspjuːt/ /ˈdɪs.pjuːt/	n, v	cuộc bàn cãi, cuộc tranh luận; tranh luận
+disruption	/dɪsˈrʌp.ʃən/	n	sự phá vỡ, đập gãy
+distinctive	/dɪˈstɪŋk.tɪv/	adj	đặc biệt, độc đáo
+distinguish	/dɪˈstɪŋ.ɡwɪʃ/	v	phân biệt, nhận ra
+distribute	/dɪˈstrɪb.juːt/	v	phân phát, phân bổ
+distribution	/ˌdɪs.trɪˈbjuː.ʃən/	n	sự phân phát
+dividend	/ˈdɪv.ə.dend/ /ˈdɪv.ə.dənd/	n	số bị chia
+document	/ˈdɑː.kjə.mənt/	n	văn kiện, tài liệu; dẫn chứng tư liệu
+donate	/ˈdoʊ.neɪt/	v	quyên góp, đóng góp
+donation	/doʊˈneɪ.ʃən/	n	sự quyên góp, sự hiến tặng
+double	/ˈdʌb.əl/	n, adj, adv	nhân đôi, gấp dôi
+download	/ˈdaʊn.loʊd/	v	tải xuống
+downsize	/ˈdaʊn.saɪz/	v	cắt giảm
+downturn	/ˈdaʊn.tɝːn/	n	sự suy sụp
+downward	/ˈdaʊn.wɚd/	adv	trở xuống, trở về sau
+drastically	/ˈdræs.tɪ.kəl.i/	adv	mạnh mẽ, quyết liệt
+draw	/drɑː/	v	kéo, lôi, thu hút vẽ
+drawer	/drɑː/	n	ngăn kéo
+drive	/draɪv/	n, v	cuộc đua; lái xe
+dull	/dʌl/	adj	chậm hiểu, đần độn cùn
+duration	/djʊəˈreɪ.ʃən/	n	khoảng thời gian, thời hạn
+duty-free	/ˌduː.t̬iˈfriː/	adj, adv	miễn thuế
+earn	/ɝːn/	v	kiếm được, giành được
+earnings	/ˈɝː.nɪŋz/	n	số tiền kiếm được
+economical	/ˌiː.kəˈnɑː.mɪ.kəl/ /ek.əˈnɑː.mɪ.kəl/	adj	tiết kiệm, kinh tế
+economize	/iˈkɑː.nə.maɪz/	v	tiết kiệm
+economy	/iˈkɑː.nə.mi/	n	nền kinh tế
+effective	/əˈfek.tɪv/	adj	hiệu quả, có hiệu lực
+effectively	/əˈfek.tɪv.li/	adv	có hiệu quả
+effectiveness	/əˈfek.tɪv.nəs/	n	sự hiệu quả
+efficiency	/ɪˈfɪʃ.ən.si/	n	năng lực, hiệu suất, năng suất
+efficient	/ɪˈfɪʃ.ənt/	adj	năng suất cao, hiệu suất tốt
+efficiently	/ɪˈfɪʃ.ənt.li/	adv	có hiệu nghiệm
+elderly	/ˈel.dɚ.li/	adj	có tuổi, lớn tuổi
+elevator	/ˈel.ə.veɪ.t̬ɚ/	n	thang máy, máy nâng
+embark	/ɪmˈbɑːrk/	v	bắt đầu, lên đường, dấn thân vào
+emergency	/ɪˈmɝː.dʒən.si/	n	trường hợp khẩn cấp
+emphasize	/ˈem.fə.saɪz/	v	nhấn mạnh
+employer	/ɪmˈplɔɪ.ɚ/	n	người làm chủ, người sử dụng lao động
+employment	/ɪmˈplɔɪ.mənt/	n	việc làm, sự thuê người làm
+enable	/ɪˈneɪ.bəl/	v	cho phép, làm cho có khả năng làm gì đó
+enclose	/ɪnˈkloʊz/	v	vây quanh, rào quanh, gửi kèm
+encourage	/ɪnˈkɝː.ɪdʒ/	v	động viên, cổ vũ
+endure	/ɪnˈdʊr/	v	chịu đựng, cam chịu
+engineer	/ˌen.dʒɪˈnɪr/	n	kỹ sư
+engineering	/ˌen.dʒɪˈnɪr.ɪŋ/	n	công việc kỹ sư
+enhance	/ɪnˈhæns/	v	làm tăng thêm, đề cao, đẩy mạnh
+enlighten	/ɪnˈlaɪ.t̬ən/	v	làm sáng tỏ, khai sáng
+enroll	/ɪnˈrəʊl/	v	đăng ký, ghi tên
+ensure	/ɪnˈʃʊr/	v	bảo đảm, chắc chắn
+enterprise	/ˈen.t̬ɚ.praɪz/	n	xí nghiệp, doanh nghiệp
+enthusiastic	/ɪnˌθuː.ziˈæs.tɪk/	adj	nhiệt tình, hứng khởi
+enthusiastically	/ɪnˌθuː.ziˈæs.tɪ.kəl.i/	adv	hăng say, nhiệt tình
+entitlement	/ɪnˈtaɪ.t̬əl.mənt/	n	quyền hạn, sự được phép làm
+entrée	/ˈɑːn.treɪ/	n	món chínhsự gia nhập, thâm nhập, tiến vào
+environment	/ɪnˈvaɪ.rən.mənt/	n	môi trường
+environmental	/ɪnˌvaɪ.rənˈmen.t̬əl/	adj	(thuộc) môi trường
+equivalent	/ɪˈkwɪv.əl.ənt/	adj, n	tương đương; vật tương đương
+essential	/ɪˈsen.ʃəl/	adj	(thuộc) bản chất, cốt lõi
+estimate	/ˈes.tə.meɪt/	v	ước tính, dự đoán
+evaluate	/ɪˈvæl.ju.eɪt/	v	ước lượng, đánh giá
+evolve	/ɪˈvɑːlv/	v	tiến hóa
+event	/ɪˈvent/	n	sự kiện, sự việc
+evidence	/ˈev.ə.dəns/	n	bằng chứng, chứng cớ
+exact	/ɪɡˈzækt/	adj	chính xác, đúng
+examination	/ɪɡˌzæm.əˈneɪ.ʃən/	n	sự khám xét, kỳ thi
+examine	/ɪɡˈzæm.ɪn/	v	khảo sát, kiểm tra
+excel	/ɪkˈsel/	v	hơn, vượt trội
+excellent	/ˈek.səl.ənt/	adj	xuất sắc, ưu tú
+executive	/ɪɡˈzek.jə.t̬ɪv/	adj, n	(thuộc) chấp hành, sự thi hành; tổ chức hành pháp
+exhibit	/ɪɡˈzɪb.ɪt/	v	trưng bày, triển lãm
+expand	/ɪkˈspænd/	v	mở rộng, nở phồng
+expansion	/ɪkˈspæn.ʃən/	n	sử mở rộng, giãn nở
+expect	/ɪkˈspekt/	v	chờ đợi, trông chờ
+expectation	/ˌek.spekˈteɪ.ʃən/	n	sự mong chờ, ngóng đợi
+expenditure	/ɪkˈspen.də.tʃɚ/	n	sự tiêu dùng, phí tổn
+expense	/ɪkˈspens/	n	chi phí, sự tiêu dùng
+expensive	/ɪkˈspen.sɪv/	adj	đắt tiền, đắt đỏ
+experience	/ɪkˈspɪr.i.əns/	n	trải nghiệm, kinh nghiệm
+experienced	/ɪkˈspɪə.ri.ənst/	adj	người từng trải, người có kinh nghiệm
+experiment	/ɪkˈsper.ə.mənt/	n, v	thí nghiệm, thử nghiệm
+exploration	/ˌek.spləˈreɪ.ʃən/	n	cuộc thăm dò, thám hiểm
+express	/ɪkˈspres/	n, v	công văn hỏa tốc; trình bày, diễn đạt
+extend	/ɪkˈstend/	v	duỗi thẳng, nới rộng, gia hạn
+extension	/ɪkˈsten.ʃən/	n	sự mở rộng, gia hạn
+external	/ɪkˈstɝː.nəl/	adj	bên ngoài, đối ngoại
+facility	/fəˈsɪl.ə.t̬i/	n	điều kiện thuận lợi, sự dễ dàng, thuận lợi
+factor	/ˈfæk.tɚ/	n	nhân tố
+factory	/ˈfæk.tɚ.i/	n	nhà máy, xí nghiệp
+fail	/feɪl/	v	thất bại, trượt (kì thi)
+failure	/ˈfeɪ.ljɚ/	n	sự thất bại
+fair	/fer/	n, adj	hội chợ, phiên chợ; công bằng, không thiên vị
+famed	/feɪmd/	adj	nổi tiếng, lừng danh
+fare	/fer/	n, v	tiền xe, tiền vé đi đường, đi du lịch
+fault	/fɑːlt/	n	lỗi, sai lầm
+faulty	/ˈfɑːl.t̬i/	adj	có thiếu sót, mắc khuyết điểm
+favor	/ˈfeɪ.vɚ/	n, v	thiện ý, sự yêu mến; ưu đãi, thiên vị
+fax	/fæks/	n	bản fax
+feature	/ˈfiː.tʃɚ/	n	nét, đặc điểm
+fee	/fiː/	n	lệ phí, tiền thù lao
+feedback	/ˈfiːd.bæk/	n, v	phản hồi, góp ý
+figure	/ˈfɪɡ.jɚ/	n, v	hình dáng, nhân vật; đánh giá, tính toán
+file	/faɪl/	n	hồ sơ, túi đựng tài liệu
+fill	/fɪl/	v	làm đầy, nhồi nhét
+final	/ˈfaɪ.nəl/	adj	cuối cùng
+finance	/ˈfaɪ.næns/	n, v	tài chính; hỗ trợ tài chính
+financial	/faɪˈnæn.ʃəl/ /fəˈnæn.ʃəl/	adj	(thuộc) tài chính
+fix	/fɪks/	n, v	sửa chữagắn chặt, cố định
+flexible	/ˈflek.sə.bəl/	adj	linh hoạt, không cố định
+flight	/flaɪt/	n	chuyến bay, sự rút chạy
+flight attendant	/ˈflaɪt əˌten.dənt/	n	tiếp viên hàng không
+fluctuate	/ˈflʌk.tʃu.eɪt/	v	dao động, lên xuống
+fluctuation	/ˌflʌk.tʃuˈeɪ.ʃən/	n	sự dao động
+focus	/ˈfoʊ.kəs/	v, n	tập trung
+focused	/ˈfoʊ.kəst/	adj	tập trung, chú ý
+fold	/foʊld/	v, n	gấp, vén; nếp gấp
+folder	/ˈfoʊl.dɚ/	n	bìa cứng, xấp tài liệu
+force	/fɔːrs/	n	sức mạnh, quyền lực
+forecast	/ˈfɔːr.kæst/	n, v	dự đoán, tiên đoán
+foreign	/ˈfɔːr.ən/	adj	nước ngoài, ngoại quốc
+forget	/fɚˈɡet/	v	quên
+forgetful	/fɚˈɡet.fəl/	adj	tính hay quên, có trí nhớ tồi
+form	/fɔːrm/	n	dáng hình; tạo hình
+forward	/ˈfɔːr.wɚd/	adv	về phía trước, tiến lên
+frank	/fræŋk/	adj	ngay thẳng, bộc trực
+frankly	/ˈfræŋ.kli/	adv	thẳng thắn
+fuel	/ˈfjuː.əl/	n	chất đốt, nhiên liệu
+fulfill	/fʊlˈfɪl/	v	làm đầy
+function	/ˈfʌŋk.ʃən/	v, n	hoạt động; chức năng
+functional	/ˈfʌŋk.ʃən.əl/	adj	(thuộc) chức năng
+fundraising	/ˈfʌndˌreɪ.zɪŋ/	n	sự huy động vốn
+furniture	/ˈfɝː.nɪ.tʃɚ/	n	đồ đạc
+further	/ˈfɝː.ðɚ/	adj, adv	xa hơn, kỹ hơn
+gesture	/ˈdʒes.tʃɚ/	n	điệu bộ, cử chỉ
+goal	/ɡoʊl/	n	khung thành, cầu môn mục tiêu
+goods	/ɡʊdz/	n	của cải, hàng hóa
+gradually	/ˈɡrædʒ.u.ə.li/	adv	dần dần, từ từ
+grievance	/ˈɡriː.vəns/	n	lời than trách
+grill	/ɡrɪl/	n, v	chả nướng; nướng, thiêu đốt
+growth	/ɡroʊθ/	n	sự tăng trưởng, mức độ tăng trưởng
+guarantee	/ˌɡer.ənˈtiː/	n, v	sự đảm bảo; cam kết
+guideline	/ˈɡaɪd.laɪn/	n	quy tắc, nguyên tắc
+haggle	/ˈhæɡ.əl/	n, v	sự mặc cả; tranh cãi
+handle	/ˈhæn.dəl/	n, v	cán cầm, tay cầm; xử lý
+handy	/ˈhæn.di/	adj	thuận tiện, sẵn tiện
+harbor	/ˈhɑː.bər/	n, v	bến cảng; che giấu nuôi dưỡng
+harmful	/ˈhɑːrm.fəl/	adj	gây tai hại, có hại
+hazardous	/ˈhæz.ɚ.dəs/	adj	mạo hiểm, nguy hiểm
+head office	/ˌhed ˈɑː.fɪs/	n	cơ quan đầu não, tổng công ty
+headquarters	/ˈhedˌkwɔːr.t̬ɚz/	n	sở chỉ huy, bộ chỉ huy
+hesitate	/ˈhez.ə.teɪt/	v	do dự, ngập ngừng
+hesitation	/ˌhez.əˈteɪ.ʃən/	n	sự ngập ngừng, do dự
+hide	/haɪd/	n, v	che giấu, che đậy
+highlight	/ˈhaɪ.laɪt/	n, v	điểm nổi bật; làm nổi bật
+highly	/ˈhaɪ.li/	adv	rất, lắm, tốt
+hike	/haɪk/	n	cuộc đi bộ, cuộc hành quân; đi bộ đường dài
+hire	/haɪr/	n, v	sự thuê; thuê, mướn
+hold	/hoʊld/	n, v	sự cầm, nắm; cầm, giữ
+host	/hoʊst/	n, v	chủ nhà, người chủ trì; tổ chức, đăng cai
+identification	/aɪˌden.t̬ə.fəˈkeɪ.ʃən/	n	sự phát hiện, nhận diện
+identify	/aɪˈden.t̬ə.faɪ/	v	nhận diện, nhận biết
+imaginative	/ɪˈmædʒ.ə.nə.t̬ɪv/	adj	tưởng tượng, không có thực
+immediate	/ɪˈmiː.di.ət/	adj	ngay lập tức, trực tiếp
+immediately	/ɪˈmiː.di.ət.li/	adv	ngay lập tức, tức thì
+impact	/ˈɪm.pækt/	n, v	tác động, ảnh hưởng
+impatient	/ɪmˈpeɪ.ʃənt/	adj	thiếu kiên nhẫn
+impersonate	/ɪmˈpɝː.sən.eɪt/	v	mạo danh, đóng vai, nhại lại
+implement	/ˈɪm.plə.ment/	n, v	dụng cụ, phương tiện; thi hành, thực hiện, áp dụng
+imply	/ɪmˈplaɪ/	v	ngụ ý, ý nói
+impression	/ɪmˈpreʃ.ən/	n	ấn tượng dấu vết
+improper	/ɪmˈprɑː.pɚ/	adj	không thích hợp, không phù hợp
+improve	/ɪmˈpruːv/	v	cải thiện
+improvement	/ɪmˈpruːv.mənt/	n	sự cải thiện, cải tiến
+incentive	/ɪnˈsen.t̬ɪv/	adj, n	khuyến khích; sự khích lệ, thúc đẩy
+inclined	/ɪnˈklaɪnd/	adj	có thiên hướng, khuynh hướng
+include	/ɪnˈkluːd/	v	bao gồm, gồm có
+inclusion	/ɪnˈkluː.ʒən/	n	sự bao gồm, tính vào
+income	/ˈɪn.kʌm/	n	thu nhập, lợi tức
+inconvenience	/ˌɪn.kənˈviːn.jəns/	n	sự bất tiện, phiền hà
+increase	/ɪnˈkriːs/	v, n	sự tăng lên; tăng thêm
+indicate	/ˈɪn.də.keɪt/	v	chỉ ra, chứng tỏ, biểu thị
+indication	/ˌɪn.dəˈkeɪ.ʃən/	n	sự biểu thị, biểu lộ
+individual	/ˌɪn.dəˈvɪdʒ.u.əl/	n, v	cá nhân; riêng lẻ, tách biệt
+individually	/ˌɪn.dəˈvɪdʒ.u.ə.li/	adv	riêng lẻ
+inexperienced	/ˌɪn.ɪkˈspɪr.i.ənst/	adj	thiếu kinh nghiệm
+infer	/-ˈfɝː/	v	suy ra, kết luận
+inflate	/ɪnˈfleɪt/	v	bơm phồng, thổi phồng
+inflation	/ɪnˈfleɪ.ʃən/	n	sự bơm phồng, lạm phát
+influence	/ˈɪn.flu.əns/	v	ảnh hưởng, uy lực; chi phối, tác động
+influential	/ˌɪn.fluˈen.ʃəl/	adj	có ảnh hưởng, có tác dụng
+information	/ˌɪn.fɚˈmeɪ.ʃən/	n	thông tin
+input	/ˈɪn.pʊt/	n	dữ liệu đầu vào
+inquiry	/ˈɪŋ.kwɚ.i/	n	sự điều tra, thẩm vấn
+install	/ɪnˈstɑːl/	v	cài đặt, tải xuống
+installation	/ˌɪn.stəˈleɪ.ʃən/	n	sự cài đặt
+insurance	/ɪnˈʃɜ.r.əns/	n	sự bảo hiểm, hợp đồng bảo hiểm
+insure	/ɪnˈʃʊr/	v	bảo hiểm, đảm bảo
+intend	/ɪnˈtend/	v	định, có ý định
+intention	/ɪnˈten.ʃən/	n	dự định, ý định
+intently	/ɪnˈtent.li/	adv	chăm chú, chú ý
+intern	/ɪnˈtɝːn/	n	thực tập sinh
+internal	/ɪnˈtɝː.nəl/	adj	bên trong, nội bộ
+international	/ˌɪn.t̬ɚˈnæʃ.ən.əl/	adj	quốc tế, đa quốc gia
+internship	/ˈɪn.tɝːn.ʃɪp/	n	kỳ thực tập
+interrupt	/ˌɪn.t̬əˈrʌpt/	v	làm gián đoạn, ngắt quãng
+interview	/ˈɪn.t̬ɚ.vjuː/	n, v	phỏng vấn
+invaluable	/ɪnˈvæl.jə.bəl/	adj	vô giá
+invent	/ɪnˈvent/	v	phát minh, sáng chế
+invention	/ɪnˈven.ʃən/	n	sự phát minh, sáng kiến, sáng chế
+inventory	/ˈɪn.vən.tɔːr.i/	n	sự kiểm kê, bản kiểm kê
+invest	/ɪnˈvest/	v	đầu tư
+investigation	/ɪnˌves.təˈɡeɪ.ʃən/	n	sự điều tra, nghiên cứu
+investment	/ɪnˈvest.mənt/	n	sự đầu tư, vốn đầu tư
+invite	/ɪnˈvaɪt/	v	mời, rủlôi cuốn, hấp dẫn
+invoice	/ˈɪn.vɔɪs/	n	hóa đơn
+isolate	/ˈaɪ.sə.leɪt/	v	cô lập, cách ly
+item	/ˈaɪ.t̬əm/	n	món đồ tin tức
+itemize	/ˈaɪ.t̬ə.maɪz/	v	trình bày thành từng khoản, từng món
+itinerary	/aɪˈtɪn.ə.rer.i/	n	hành trình, lịch trình
+jealous	/ˈdʒel.əs/	adj	ghen ghét, đố kỵ
+jeopardize	/ˈdʒep.ɚ.daɪz/	v	gây nguy hại, đe dọa
+jeopardy	/ˈdʒep.ɚ.di/	n	nguy cơ, sự nguy hiểm
+jobless	/ˈdʒɑːb.ləs/	adj	thất nghiệp, không có việc làm
+join	/dʒɔɪn/	v	nối, ghép tham gia
+joint	/dʒɔɪnt/	n, adj	mối nối, khớp; chung
+journal	/ˈdʒɝː.nəl/	n	báo, tạp chí
+journey	/ˈdʒɝː.ni/	n	cuộc hành trình
+judge	/dʒʌdʒ/	n, v	quan toàn, thẩm phán, người phán xử; xét xử, phân xử
+justice	/ˈdʒʌs.tɪs/	n	sự công bằng, luật pháp
+justification	/ˌdʒʌs.tə.fəˈkeɪ.ʃən/	n	sự bào chữa, biện hộ
+justify	/ˈdʒʌs.tə.faɪ/	v	bào chữa, phân bua, biện hộ
+keen	/kiːn/	adj	say mê, ham thích
+keep	/kiːp/	v	giữ lại, giam giữ
+knowledge	/ˈnɑː.lɪdʒ/	n	kiến thức, sự hiểu biết
+knowledgeable	/´nɔlidʒəbl/	adj	thông thạo, thành thạo, am tường
+label	/'leɪbl/	n	nhãn, nhãn hiệu
+labor	/'leibə/	n	lao động, công việc chân tay
+lack	/læk/	n, v	sự thiếu, thiếu sót
+landlord	/'lændlɔ:d/	n	chủ nhà (nhà cho thuê)
+laptop	/´læp¸tɔp/	n	máy tính
+launch	/lɔ:ntʃ/	n	Xuồng lớn
+law	/lɑː/	n	luật, nội quy, quy định
+lay	/lei/	n	bài thơ ngắn, bài vè ngắn
+leak	/li:k/	n	lỗ thủng, lỗ rò, khe hở
+lean	/li:n/	n	độ nghiêng, độ dốc
+lease	/li:s/	n	hợp đồng cho thuê (bất động sản)
+leisure	/ˈliʒər , ˈlɛʒər/	n	thì giờ rỗi rãi, lúc thư nhàn
+lend	/lend/	v	cho vay, cho mượn
+liability	/,laiə'biliti/	n	trách nhiệm pháp lý, nghĩa vụ pháp lý
+license	/lái:sn/	n	bản quyền
+licensing	/ˈlaɪ.sən.sɪŋ/	n	sự cấp giấy phép
+lie	/lai/	n	sự nói dối, sự nói láo, sự nói điêu, sự dối trá
+limited	/ˈlɪmɪtɪd/	adj	hạn chế, có giới hạn
+limousine	/´limə¸zi:n/	n	xe hơi
+list	/list/	n	danh sách, sổ, bản kê khai
+livestock	/´laiv¸stɔk/	n	vật nuôi, thú nuôi
+loan	/ləʊn/	n	sự vay nợ
+lobby	/lɒb.i/	n	hành lang
+local	/'ləʊk(ə)l/	adj	địa phương
+locate	/loʊˈkeɪt/	v	trụ sở ở, nằm ở
+log on	/lɔg/	v	kết nối với hệ thống
+log	/lɔg/	n	khúc gỗ mới đốn hạ
+loyal	/'lɔiəl/	adj	trung thành, trung nghĩa, trung kiên
+luggage	/'lʌgiʤ/	n	hành lý
+luxurious	/lʌg´zjuəriəs/	adj	sang trọng, lộng lẫy; xa hoa
+luxury	/lʌk.ʃər.i/	n	sự xa xỉ, sự xa hoa
+maintain	/mein´tein/	v	giữ gìn, duy trì; bảo vệ
+maintenance	/´meintənəns/	n	sự giữ gìn, sự duy trì; sự bảo vệ
+major	/ˈmeɪdʒər/	n	chuyên đề
+manage	/'mænɪʤ/	v	quản lý
+managerial	/¸mæni´dʒiəriəl/	adj	(thuộc) người quản lý, (thuộc) giám đốc
+mandatory	/'mændətəri/	adj	có tính cách bắt buộc
+manufacture	/,mænju'fæktʃə/	n	sự chế tạo, sự sản xuất
+manufacturing	/¸mænju´fæktʃəriη/	n	sự sản xuất; sự chế tạo; sự gia công
+marketing	/'mɑ:kitiɳ/	n	tiếp thị
+mechanic	/məˈkænɪk/	n	thợ máy, công nhân cơ khí
+medical	/'medikə/	adj	(thuộc) y học
+medication	/ˌmɛdɪˈkeɪʃən/	n	sự bốc thuốc, sự cho thuốc
+medicine	/'medisn/	n	y học
+meeting	/'mi:tiɳ/	n	(chính trị) cuộc mít tinh, cuộc biểu tình
+membership	/'membəʃip/	n	tư cách hội viên, địa vị hội viên
+memorandum	/¸memə´rændəm/	n	bản ghi nhớ
+mention	/'menʃn/	n	sự kể ra, sự nói đến, sự đề cập
+merchandise	/´mə:tʃən¸daiz/	n	hàng hóa
+mere	/miə/	n	ao hồ
+merge	/mə:dʤ/	v	hoà vào; kết hợp; hợp nhất
+merger	/´mə:dʒə/	n	sự liên doanh liên kết
+mileage	/´mailidʒ/	n	tổng số dặm đã đi được
+million	/´miljən/	n	một triệu
+mimic	/´mimik/	adj	giả; bắt chước
+mishear	/¸mis´hiə/	v	nghe lầm
+misleading	/mis´li:diη/	adj	làm cho lạc đường, làm cho lạc lối
+misrepresent	/¸misrepri´zent/	v	trình bày sai, miêu tả sai
+monitor	/'mɔnitə/	n	lớp trưởng, cán bộ lớp (ở trường học)
+monument	/'mɔnjumənt/	n	vật kỷ niệm, đài kỷ niệm, bia kỷ niệm
+moral	/ˈmɔːr.əl/	adj	(thuộc) đạo đức, phẩm hạnh tinh thầnbài học, lời răn dạy
+mortgage	/'mɔ:gidʤ/	n	cầm cố, thế chấp
+motivate	/´mouti¸veit/	v	thúc đẩy, làm động cơ thúc đẩy
+motivation	/,mouti'veiʃn/	n	sự thúc đẩy, động cơ thúc đẩy
+napkin	/'næpkin/	n	khăn ăn
+narrow	/'nærou/	adj	hẹp, chật hẹp, eo hẹp
+narrowing	/'nærouwiŋ/	n	sự thu hẹp, sự co hẹp
+neighborhood	/ˈneɪbərˌhʊd/	n	hàng xóm
+network	/'netwə:k/	n	lưới, đồ dùng kiểu lưới
+nominate	/'nɔmineit/	v	chỉ định, chọn, bổ nhiệm
+nomination	/,nɔmi'neiʃn/	n	sự chỉ định, sự bổ nhiệm
+notice	/'nəƱtis/	n	thông tri, yết thị, thông báo
+notify	/nəʊ.tɪ.faɪ/	v	báo, khai báo; thông báo
+objection	/əb'ʤekʃn/	n	sự phản đối, sự chống đối
+objective	/əb´dʒektiv/	adj	khách quan
+obligation	/,ɔbli'geiʃn/	n	nghĩa vụ; bổn phận
+oblige	/ə'blaiʤ/	v	bắt buộc, cưỡng bách; đặt nghĩa vụ cho
+obtain	/əb'teɪn/	v	đạt được, giành được, thu được
+obviously	/'ɔbviəsli/	adv	một cách rõ ràng; có thể thấy được
+occupation	/,ɔkju'peiʃn/	n	sự chiếm giữ, sự chiếm đóng
+occur	/ə'kə:/	v	xảy ra, xảy đến, xuất hiện, tìm thấy
+officer	/´ɔfisə/	n	sĩ quan
+official	/ə'fiʃəl/	adj	(thuộc) chính quyền; (thuộc) văn phòng
+onward	/'ɔnwəd/	adj	về phía trước, tiến lên, hướng tới
+operate	/'ɔpəreit/	v	hoạt động; đang làm việc, thi hành (máy...)
+operation	/,ɔpə'reiʃn/	n	sự hoạt động; quá trình hoạt động
+opinion	/ə'pinjən/	n	ý kiến, quan điểm
+opportunity	/ɒpərˈtyunɪti/	n	cơ hội, thời cơ, dịp may
+optimistic	/¸ɔpti´mistik/	adj	lạc quan, yêu đời
+order	/'ɔ:də/	n	thứ, bậc, ngôi, hàng, cấp, loại, giai cấp
+organization	/,ɔ:gənai'zeiʃn/	n	sự tổ chức, sự cấu tạo
+organize	/´ɔ:gə¸naiz/	v	tổ chức, cấu tạo, thiết lập
+organized	/ˈɔːr.ɡən.aɪzd/	adj	có trật tự, ngăn nắp, hữu hiệu
+outline	/´aut¸lain/	n	nét phác thảo, đề cương; sự vạch ra những nét chính
+outlook	/´aut¸luk/	n	quang cảnh, viễn cảnh
+outstanding	/¸aut´stændiη/	adj	nổi bật, đáng chú ý; nổi tiếng, vượt trội
+overall	/ˈoʊvərˌɔl/	adj	toàn bộ, toàn thể, bao gồm mọi thứ
+overdraft	/´ouvə¸dra:ft/	n	số tiền chi trội; số tiền rút quá số tiền gửi
+overtime	/´ouvətaim/	adj	quá giờ, ngoài giờ (quy định)
+overview	/´ouvə¸vju:/	n	sự khái quát; miêu tả chung, ngắn gọn
+owe	/ou/	v	nợ, hàm ơn
+package	/pæk.ɪdʒ/	v	đóng gói, đóng kiện, xếp vào bao bì
+package	/pæk.ɪdʒ/	n	gói đồ, bưu kiện; hộp để đóng hàng, thùng hàng
+parcel	/'pɑ:s(ə)l/	n	gói; bưu kiện
+parking	/ˈpɑːr.kɪŋ/	n	bãi đỗ xe
+participant	/pa:´tisipənt/	n	người tham gia, người tham dự
+particularly	/pə´tikjuləli/	adv	đặc biệt, đặc thù; cá biệt, riêng biệt
+passenger	/'pæsindʤə/	n	hành khách (đi tàu xe...)
+patent	/'peitənt/	adj	tài tình, khéo léo, tinh xảo
+patented	/ˈpeɪtəntɪd, ˈpætəntɪd/	adj	đã có bằng sáng chế, môn bài
+patience	/´peiʃəns/	n	tính kiên nhẫn, tính nhẫn nại; sự bền chí
+payment	/'peim(ə)nt/	n	sự trả tiền, số tiền trả; sự bồi thường, tiền bồi thường
+perform	/pə´fɔ:m/	v	biểu diễn, trình diễn (kịch, điệu nhảy...); đóng
+performance	/pə'fɔ:məns/	n	sự biểu diễn, việc đóng (phim, kịch...); cuộc biểu diễn
+permanent	/'pə:mənənt/	adj	lâu dài, vĩnh cửu; thường xuyên
+permission	/pə'miʃn/	n	sự cho phép, sự chấp nhận; giấy phép
+permit	/'pər'mɪt/	v	cho phép, cho cơ hội; thừa nhận
+personal	/'pə:snl/	adj	cá nhân, tư, riêng
+personalized	/´pə:sənə¸laiz/	v	cá nhân hoá
+personnel	/¸pə:sə´nel/	n	nhân viên, công chức (cơ quan, nhà máy...)
+persuade	/pə'sweid/	v	thuyết phục
+pessimistic	/¸pesi´mistik/	adj	bi quan, yếm thế
+plant	/plænt , plɑnt/	n	thực vật
+platform	/'plætfɔ:m/	n	nền, bục, bệ
+pleasant	/'plezənt/	adj	vui vẻ, dễ thương (người...)
+plow	/plau/	n	cái cày; công cụ giống như cái cày
+plug	/plʌg/	n	phích cắm; ổ cắm điện
+plumber	/´plʌmə/	n	thợ hàn chì, thợ ống nước
+point	/pɔint/	n	điểm
+pointless	/´pɔintlis/	adj	vô nghĩa, không ý vị, lạc lõng
+policy	/pɔlisi/	n	chính sách (của chính phủ, đảng...)
+polite	/pəˈlaɪt/	adj	lễ phép, có lễ độ; lịch sự, lịch thiệp
+politician	/,pɒlə'tɪʃn/	n	nhà chính trị; chính khách
+politics	/'pɔlitiks/	n	hoạt động chính trị, công việc chính trị
+poll	/poul/	n	sự bầu cử; số phiếu bầu
+pollute	/pəˈlut/	v	làm ô nhiễm, làm nhơ bẩn (nước...)
+popular	/ˈpɑːpjələr/	adj	được nhiều người ưa chuộng, được nhiều người ngưỡng mộ
+popularity	/ˌpɒpyəˈlærɪti/	n	tính đại chúng; tính phổ biến
+position	/pəˈzɪʃən/	n	vị trí, chỗ (của một vật gì)
+postpone	/pəʊst pəʊn/	v	hoãn lại, trì hoãn
+postponement	/poust´pounmənt/	n	sự trì hoãn; trường hợp bị trì hoãn
+potential	/pəˈtenʃl/	adj	tiềm năng; tiềm tàng
+power	/ˈpauə(r)/	n	khả năng; tài năng, năng lực
+practical	/ˈpræktɪkəl/	adj	thực hành (đối với lý thuyết)
+practically	/´præktikəli/	adv	về mặt thực hành (đối với lý thuyết)
+predict	/pri'dikt/	v	nói trước, tiên đoán, dự đoán
+predictable	/pri'diktəbl/	adj	có thể đoán trước, có thể dự đoán, dự báo
+prefer	/pri'fə:/	v	thích hơn, ưa hơn
+preference	/'prefərəns/	n	sở thích; sự thích hơn, sự ưa hơn
+premises	/'premis/	n	biệt thự
+present	prezənt	n	hiện tại, hiện thời, hiện giờ, hiện nay
+press	/pres/	n	sự ép, sự nén, sự bóp, sự ấn
+prevent	/pri'vent/	v	ngăn cản; ngăn chặn, ngăn ngừa
+prevention	/pri'ven∫n/	n	sự ngăn cản, sự ngăn trở
+priceless	/ˈpraɪslɪs/	adj	vô giá; không định giá được
+principle	/ˈprɪntsɪpl/	n	gốc, nguồn gốc, yếu tố cơ bản
+priority	/prai´ɔriti/	n	sự ưu thế (về cấp bậc); quyền ưu tiên
+private	/ˈpraɪvɪt/	adj	riêng, tư, cá nhân
+probability	/ˌprɒbəˈbɪlɪti/	n	sự có thể có, khả năng có thể xảy ra
+probably	/´prɔbəbli/	adv	có khả năng, có lẽ, có thể
+probationary	/prə´beiʃənəri/	adj	đang trong thời gian thử thách
+process	/'prouses/	n	quá trình, sự tiến triển
+profession	/prə´feʃ(ə)n/	n	nghề, nghề nghiệp
+professional	/prə'feʃənl/	adj	(thuộc) nghề, (thuộc) nghề nghiệp; có tay nghề
+profile	/´proufail/	n	tiểu sử sơ lược; mô tả sơ lược
+profit	/ˈprɒfɪt/	n	thuận lợi; lợi ích, bổ ích
+profitability	/'prɔfitə'biləti/	n	sự có lợi, sự có ích; sự thuận lợi
+profitable	/´prɑ:fɪtəbl/	adj	có lợi, có ích; thuận lợi
+progressive	/prəˈgrɛsɪv/	adj	tiến lên, tiến tới
+prohibit	/proʊ'hɪbɪt/	v	cấm, ngăn cấm
+project	/ˈprɒdʒɛkt/	n	đề án, dự án; kế hoạch
+promote	/prəˈmoʊt/	v	thăng chức, thăng cấp; đề bạt
+promotion	/prə'mou∫n/	n	sự thăng chức, sự đề bạt
+promptly	/´prɔmptli/	adv	mau lẹ, nhanh chóng; ngay lập tức
+properly	/´prɔpəli/	adv	đúng đắn, hợp thức, hợp lệ
+property	/'prɔpəti/	n	tài sản, của cải, vật sở hữu, người giàu có
+protect	/prə'tekt/	v	bảo vệ, bảo hộ, che chở
+protection	/prə'tek∫n/	n	sự bảo vệ, sự bảo hộ, sự che chở
+publicity	/pʌb'lɪsətɪ /	n	sự công khai
+publicize	/´pʌbli¸saiz/	v	đưa ra công khai; làm cho thiên hạ biết đến
+purchase	/'pə:t∫əs/	n	sự mua, tậu; vật mua được, vật tậu được
+purpose	/'pɜ:pəs/	n	mục đích, ý định
+pursue	/pə'sju:/	v	đuổi theo, đuổi bắt, truy nã, truy kích
+qualification	/,kwalifi'keiSn/	n	phẩm chất, năng lực
+qualified	/ˈkwɒləˌfaɪd/	adj	đủ tư cách, khả năng, điều kiện
+qualify	/'´kwɔli¸fai/	v	đủ tư cách, khả năng, điều kiện
+questionnaire	/ˌkwɛstʃəˈnɛər/	n	bản câu hỏi (để điều tra, để thăm dò ý kiến)
+quotation	/kwou'teiʃn/	n	sự trích dẫn, sự được trích dẫn
+quote	/kwout/	n	lời trích dẫn; đoạn trích dẫn
+range	/reɪndʒ/	n	dãy, hàng
+rare	/reə/	adj	hiếm, hiếm có, ít có
+rate	/reit/	n	tỷ lệ
+rational	/´ræʃənəl/	adj	có lý trí, dựa trên lý trí
+raw	/rɔ:/	adj	sống, thô
+reach	/ri:tʃ/	n	sự chìa ra, sự trải ra
+realize	/'riəlaiz/	v	thấy rõ, hiểu rõ, nhận thức rõ (việc gì...)
+rearrange	/'ri:ə'reindʤ/	v	sắp xếp lại, bố trí lại, sắp đặt lại
+reasonable	/´ri:zənəbl/	adj	có lý, hợp lý
+reasonably	/ˈriː.zən.ə.bli/	adv	hợp lý
+receipt	/ri´si:t/	n	công thức (làm bánh, nấu món ăn...)
+receive	/ri'si:v/	v	nhận, lĩnh, thu
+recent	/´ri:sənt/	adj	gần đây, xảy ra gần đây, mới đây
+reception	/ri'sep∫n/	n	sự nhận, sự thu nhận, sự lĩnh
+receptive	/ri'septiv/	adj	dễ tiếp thu, dễ lĩnh hội
+recipe	/´resəpi/	n	công thức làm món ăn
+recognize	/'rekəgnaiz/	v	công nhận, thừa nhận, chấp nhận
+recommend	/rekə'mend/	v	giới thiệu, tiến cử (người, vật...)
+recommendation	/¸rekəmen´deiʃən/	n	sự giới thiệu, sự tiến cử
+recruit	/ri'kru:t/	v	tuyển, chiêu mộ (lính mới); tìm thêm
+recruitment	/ ri'kru;tm(ə)nt/	n	sự tuyển mộ (lính), sự lấy thêm
+reduce	/ri'dju:s/	v	thu nhỏ, làm giảm bớt
+reduction	/ri´dʌkʃən/	n	sự thu nhỏ, sự giảm bớt
+redundant	/ri'dʌndənt/	adj	thừa, dư
+refrigerator	/rɪˈfrɪdʒ.ər.eɪ.tər/	n	tủ lạnh
+refund	/ˈrifʌnd/	n, v	trả lại, sự trả lại
+refundable	/ri´fʌndəbl/	adj	có thể được trả lại tiền
+refusal	ri´fju:zl/	n	sự từ chối, sự khước từ; sự bị từ chối
+refuse	/rɪˈfyuz/	v	từ chối, khước từ, cự tu
+regarding	/ri´ga:diη/	n	về ( ai/cái gì), về việc, đ
+regardless	/ri´ga:dlis/	adv	bất chấp, không đếm xỉ
+regional	/ˈridʒənl/	adj	(thuộc) vùng; địa phươ
+registration	/,redʤis'treiʃn/	n	sự đăng ký, sự ghi vào
+regret	/ri'gret/	n, v	hối tiếc; sự ân hận
+regular	/ˈreɡ.jə.lɚ/	adj	đều đặn, thường xuyên
+regularly	/´regjuləli/	adv	đều đặn, thường xuyên
+regulate	/ˈreɡ.jə.leɪt/	v	điều khiển
+reject	/'ri:ʤekt/	n, v	vật bị loại, vật bỏ đi, vậ
+relax	/rɪˈlæks/	v	thư giãn, nghỉ ngơi
+relaxation	/¸ri:læk´seiʃən/	n	sự dịu đi, sự bớt căng th
+release	/rɪˈliːs/	v	thả ra, trả lại tự do
+relevant	/´reləvənt/	adj	thích đáng, thích hợp; x
+remain	/rɪˈmeɪn/	v	duy trì
+remarkable	/ri'ma:kəb(ə)l/	adj	đáng chú ý, đáng để ý
+remind	/rɪˈmaɪnd/	v	nhắc lại, nhớ lại
+reminder	/ri´maində/	n	vật làm nhớ lại, cái làm
+remittance	/ri´mitəns/	n	sự gửi tiền, sự gửi hàng
+remove	/ri'mu:v/	v	dời đi, di chuyển, dọn,
+remuneration	/rɪˌmjuː.nəˈreɪ.ʃən/	n	tiền thù lao, tiền trả côn
+renovate	/ˈrɛnəˌveɪt/	v	nâng cấp, cải tiến, đổi m
+renovation	/ˌren.əˈveɪ.ʃən/	n	sự nâng cấp, sự cải tiến
+rent	/rent/	n	sự thuê mướn
+repair	/rɪˈper/	v	sửa chữa, sửa đổi
+repayment	/ri:´peimənt/	n	sự trả lại
+repetitive	/rɪˈpet̬.ə.t̬ɪv/	adj	có đặc trưng lặp đi lặp l
+replace	/rɪpleɪs/	v	thay thế, thay chỗ ai/cái
+replacement	/rɪˈpleɪs.mənt/	n	sự thay thế, vật thay thế
+report	/ri'pɔ:t/	n	bản báo cáo, bản tường
+represent	/ˌrep.rɪˈzent/	v	miêu tả, hình dung
+representative	/,repri'zentətiv/	adj	miêu tả, biểu hiện
+request	/rɪˈkwest/	n	yêu cầu
+require	/ri'kwaiə(r)/	v	đòi hỏi, yêu cầu; quy đị
+requirement	/rɪˈkwaɪr.mənt/	n	yêu cầu, cần thiết
+reschedule	/ˌriːˈskedʒ.uːl/	v	lên lịch, sắp xếp lịch
+rescue	/ˈres.kjuː/	v	cứu ai đó khỏi nguy hiể
+resemble	/rɪˈzem.bəl/	v	giống nhau, giống ai đó
+reservation	/ˌrez.ɚˈveɪ.ʃən/	n	dự phòng
+resign	/rɪˈzaɪn/	v	bỏ việc, từ chức
+resist	/rɪˈzɪst/	v	chống lại
+resolve	/rɪ'zɑ:lv	n, v	Quyết tâm, ý kiên quyế
+respect	/riˈspekt/	n	sự kính trọng; sự ngưỡn
+respectable	/ris´pektəbl/	adj	đáng trọng; đáng kính
+respond	/ri'spond/	v	hưởng ứng
+responsibility	/rɪˌspɑːn.səˈbɪl.ə.t̬i/	n	"trách nhiệm; sự chịu trá
+nghĩa vụ"
+responsible	/ri'spɔnsəbl/	adj	chịu trách nhiệm
+restructure	/ri:´strʌktʃə/	v	cơ cấu lại; tổ chức lại; sắp xếp lại
+resume	/ri´zju:m/	v	lấy lại, chiếm lại, giành lại; hồi phục lại
+retail	/ˈriteɪl , rɪˈteɪl/	n, adv	sự bán lẻ, việc bán lẻ
+retire	/ri´taiə /	v	rời bỏ, đi ra, rút về, lui về (một nơi nào kín đáo...)
+retirement	/rɪˈtaɪərmənt/	n	sự ẩn dật, sự về hưu
+revamp	/ˌriːˈvæmp/	v	tân trang, sửa chữa
+revise	/ri'vaiz/	v, n	đọc lại, xem lại, duyệt lại, xét lại
+revised	/ri'vaiz/	v, n	đọc lại, xem lại, duyệt lại, xét lại
+right	/rait/	n	điều tốt, điều phải, điều đứng đắn
+rival	/raivl/	n,adj	đối thủ, địch thủ, đối địch, kình địch
+roadside	/´roud¸said/	n,adj	bờ đường, lề đường
+roughly	/'rʌfli/	adv	ráp, xù xì, gồ ghề, không bằng phẳng
+route	/raʊt/	n	tuyến đường; lộ trình; đường đi
+runway	/´rʌn¸wei/	n	đường băng
+salary	/ˈsæləri/	n	tiền lương
+sale	/seil/	n	sự bán, việc bán
+salvage	/´sælvidʒ/	n	sự cứu hộ; sự cứu chạy (khỏi đám cháy, mưa lũ..)
+sample	/´sa:mpl/	n	mẫu; vật mẫu, hàng mẫu
+satisfactory	/,sætis'fæktəri/	adj	vừa lòng, vừa ý; thoả mãn (tuy không xuất sắc lắm)
+satisfied	/'sætisfaid/	adj	cảm thấy hài lòng, cảm thấy vừa ý; thoả mãn
+satisfy	/'sætisfai/	v	làm thoả mãn, làm hài lòng
+save	/seiv/	n	cứu nguy, cứu vãn
+savvy	/ˈsæv.i/	n	sự hiểu biết, nắm rõ
+scene	/si:n/	n	quang cảnh
+scenery	/'si:nəri/	n	phong cảnh, cảnh vật
+schedule	/'skedʒu:l/	n	kế hoạch làm việc, tiến độ thi công
+scrutinize	/´skru:ti¸naiz/	v	chăm chú, nhìn kỹ; xem xét kỹ lưỡng
+search	/sə:t∫/	n,v	sự nhìn để tìm, nhìn để tìm, thăm dò
+secluded	/si´klu:did/	adj	hẻo lánh; không có nhiều người trông thấy
+secretarial	/¸sekri´tɛəriəl/	adj	(thuộc) thư ký
+secretary	/'sekrətri/	n	thư ký
+select	/si´lekt/	v	lựa chọn, chọn lọc, tuyển chọn
+selection	/si'lekʃn/	n	sự lựa chọn, sự chọn lọc, sự tuyển lựa
+selective	/si'lektiv/	adj	có tuyển chọn; dựa trên sự tuyển chọn
+seminar	/¸semi´na:/	n	hội nghị chuyên đề
+senior	/'si:niə/	adj	nhiều tuổi hơn; cao hơn về cấp bậc (chức quyền..); lâu năm hơn
+sequel	/ˈsiː.kwəl/	n	sự tiếp tục, nối tiếp, kết quả
+serious	/'siəriəs/	adj	đứng đắn, nghiêm trang, nghiêm nghị
+service	/'sə:vis/	n	sự phục vụ, sự hầu hạ
+several	/'sevrəl/	adj	vài, riêng, cá nhân; khác nhau
+shape	/ʃeip/	n	hình, hình dạng, hình thù
+sharp	/ʃɑrp/	adj	sắc, nhọn, bén
+shift	/ʃift/	n	sự thay đổi (về vị trí, bản chất, hình dáng..)
+shine	/ʃain/	n	ánh sáng; án
+shipment	/´ʃipmənt/	n	việc gửi hàn
+shipping	/ˈʃɪp.ɪŋ/	n	đang chuyể
+shortage	/ˈʃɔːr.t̬ɪdʒ/	n	sự thiếu sót
+shuttle	/ˈʃʌt̬.əl/	n	xe đưa đón
+sightseeing	/ˈsaɪtˌsiː.ɪŋ/	n	tham quan
+significant	/sɪɡˈnɪf.ə.kənt/	adj	quan trọng
+simplify	/ˈsɪm.plə.faɪ/	v	đơn giản hó
+situation	/ˌsɪtʃ.uˈeɪ.ʃən/	n	tình hình
+slump	/slʌmp/	v	sự sụt giảm
+software	/ˈsɑːft.wer/	n	phần mềm
+solar	/ˈsoʊ.lɚ/	adj	hệ mặt trời
+spacious	/ˈspeɪ.ʃəs/	adj	rộng rãi
+spare part	/ˈspeər ˈpɑrt/	n	phụ tùng
+spare time	/ˈspeər ˈtɑɪm/	n	thời gian rả
+specialize	/ˈspeʃ.ə.laɪz/	v	chuyên môn
+specialty	/ˈspeʃ.əl.ti/	n	chuyên môn
+specification	/ˌspes.ə.fəˈkeɪ.ʃən/	n	chi tiết, đặc
+specify	/ˈspes.ə.faɪ/	v	giải thích, m
+spectator	/spekˈteɪ.t̬ɚ/	n	khán giả
+stable	/ˈsteɪ.bəl/	adj	ổn định
+stadium	/ˈsteɪ.di.əm/	n	sân vận độn
+staff	/stæf/	n	nhân viên
+stapler	/ˈsteɪ.plɚ/	n	người phân
+stare	/ster/	v	nhìn chằm c
+starter	/ˈstɑːr.t̬ɚ/	n	người ra lện
+stationery	/ˈsteɪ.ʃə.ner.i/	n	đồ dùng văn
+steep	/stiːp/	adj	quá quắt, kh
+stock	/stɑːk/	n	kho hàng, k
+strategic	/strəˈtiː.dʒɪk/	adj	mang tính c
+strategy	/'strætəʤɪ/	v	chiến lược
+streamline	/ˈstriːm.laɪn/	v	dòng nước,
+strike	/straɪk/	v	đánh đập
+studio	/ˈstuː.di.oʊ/	n	phòng thu â
+stunning	/ˈstʌn.ɪŋ/	adj	tuyệt vời, lộ
+submit	/səbˈmɪt/	v	xác nhận, g
+subscribe	/səbˈskraɪb/	v	đăng ký
+subscription	/səbˈskrɪp.ʃən/	n	sự đăng ký
+subsidiary	/səbˈsɪd.i.er.i/	adj	sự lệ thuộc
+suffocate	/ˈsʌf.ə.keɪt/	v	làm ngạt, bó
+suggest	/səˈdʒest/	v	đề xuất
+suggestion	/səˈdʒes.tʃən/	n	sự đề xuất
+suit	/suːt/	n	bộ vest
+suitability	/ˌsuː.t̬əˈbɪl.ə.t̬i/	n	sự thích hợp
+suitable	/ˈsuː.t̬ə.bəl/	adj	phù hợp , th
+supervise	/ˈsuː.pɚ.vaɪz/	v	giám sát
+supervision	/ˌsuː.pɚˈvɪʒ.ən/	n	sự giám sát
+supplier	/səˈplaɪ.ɚ/	n	nhà cung cấp
+supply	/səˈplaɪ/	v	cung cấp
+support	/səˈpɔːrt/	v	trợ giúp
+supporter	/səˈpɔːr.t̬ɚ/	n	người trợ giúp
+surrounding	/səˈraʊn.dɪŋ/	adj	bao quanh
+suspicious	/səˈspɪʃ.əs/	adj	khả nghi
+switchboard	/ˈswɪtʃ.bɔːrd/	n	tổng đài
+systematic	/ˌsɪs.təˈmæt̬.ɪk/	adj	có hệ thống
+takeover	/ˈteɪkˌoʊ.vɚ/	n	tiếp quản
+tax	/tæks/	n	thuế
+technical	/ˈtek.nɪ.kəl/	adj	có tính kỹ thuật
+technician	/tekˈnɪʃ.ən/	n	kỹ thuật viên
+temporary	/ˈtem.pə.rer.i/	adj	tạm thời
+tenant	/ˈten.ənt/	n	người thuê nhà
+terminate	/ˈtɝː.mə.neɪt/	v	chấm dứt
+terrible	/ˈter.ə.bəl/	adj	kinh khủng
+terrific	/təˈrɪf.ɪk/	adj	khủng khiếp
+theoretical	/ˌθiː.əˈret̬.kəl/	adj	mang tính lý thuyết
+theory	/ˈθɪr.i/	n	học thuyết
+thorough	/ˈθɝː.ə/	adj	triệt để
+tidy	/ˈtaɪ.di/	adj	ngăn nắp
+tip	/tɪp/	n	tiền boa
+tour	/tʊr/	n	chuyến du lịch
+tourism	/ˈtʊr.ɪ.zəm/	n	du lịch
+tourist	/ˈtʊr.ɪst/	n	du khách
+towel	/taʊəl/	n	cái khăn lau
+tower	/ˈtaʊ.ɚ/	n	tòa nhà, tháp
+track	/træk/	n	con đường
+trade	/treɪd/	n	sự trao đổi (hàng hóa, vật phẩm)
+tradition	/trəˈdɪʃ.ən/	n	sự truyền thống
+traffic	/ˈtræf.ɪk/	n	giao thông
+training	/ˈtreɪ.nɪŋ/	n	sự huấn luyện, sự đào tạo
+transfer	/ˈtræns.fɝː/	v	chuyển khoản
+transform	/trænsˈfɔːrm/	v	biến đổi
+transformation	/ˌtræns.fɚˈmeɪ.ʃən/	n	sự biến đổi
+transit	/ˈtræn.zɪt/	n	vận chuyển
+transportation	/ˌtræn.spɚˈteɪ.ʃən/	n	sự vận chuyển
+trend	/trend/	n	xu hướng
+trial	/traɪəl/	n	thử nghiệm
+triumph	/ˈtraɪ.əmf/	n	chiến thắng
+trust	/trʌst/	v	tin, tin tưởng
+turnover	/ˈtɝːnˌoʊ.vɚ/	n	doanh số, doanh thu
+unconditional	/ˌʌn.kənˈdɪʃ.ən.əl/	adj	vô điều kiện
+understand	/ˌʌn.dɚˈstænd/	v	hiểu, nắm bắt được
+unfavorable	/ʌnˈfeɪ.vər.ə.bəl/	adj	không thuận lợi
+unfortunately	/ʌnˈfɔːr.tʃən.ət.li/	adj	không may mắn
+uniform	/ˈjuː.nə.fɔːrm/	n	đồng phục
+unspoiled	/ʌnˈspɔɪld/	adj	hoang sơ
+unwrap	/ʌnˈræp/	v	bóc, mở
+upcoming	/ˈʌpˌkʌm.ɪŋ/	adj	sắp xảy ra
+update	/ʌpˈdeɪt/	v	nâng cấp
+upgrade	/ʌpˈɡreɪd/	v	nâng cấp
+upset	/ʌpˈset/	v, adj	buồn bã, lo lắng
+upstairs	/ʌpˈsterz/	n	tầng trên
+utility bill	/juːˈtɪl.ə.t̬i/ /bɪl/	n	hóa đơn điện nước
+vacancy	/ˈveɪ.kən.si/	n	vị trí bỏ trống
+vacant	/ˈveɪ.kənt/	v	bỏ trống
+vacation	/veɪˈkeɪ.ʃən/	n	kì nghỉ
+vaccination	/ˌvæk.səˈneɪ.ʃən/	n	tiêm chủng
+valuables	/ˈvæl.jə.bəlz/	n	vật có giá trị
+varied	/ˈver.ɪd/	adj	đa dạng
+variety	/vəˈraɪ.ə.t̬i/	n	sự đa dạng
+various	/ˈver.i.əs/	adj	đa dạng
+vendor	/ˈven.dɚ/	n	người bán
+venture	/ˈven.tʃɚ/	n	liên doanh
+venue	/ˈven.juː/	n	địa điểm
+virus	/ˈvaɪ.rəs/	n	virus
+vital	/ˈvaɪ.t̬əl/	adj	thiết yếu
+vivid	/ˈvɪv.ɪd/	adj	chói sáng, rực rỡ, sống động
+wage	/weɪdʒ/	n	tiền công
+walkway	/ˈwɑː.kweɪ/	n	lối đi
+warehouse	/ˈwer.haʊs/	n	kho hàng
+warn	/wɔːrn/	v	cảnh báo
+warning	/ˈwɔːr.nɪŋ/	n	sự cảnh báo
+warrant	/ˈwɔːr.ənt/	v	bảo đảm
+warranty	/ˈwɔːr.ən.t̬i/	n	sự bảo đảm
+wastage	/ˈweɪ.stɪdʒ/	adj	lãng phí
+waterproof	/ˈwɑː.t̬ɚ.pruːf/	adj	chống nước
+wealth	/welθ/	adj	giàu có
+website	/ˈweb.saɪt/	n	trang web
+weight	/weɪt/	n	cân nặng
+welfare	/ˈwel.fer/	n	phúc lợi
+wholesale	/ˈhoʊl.seɪl/	v	bán sỉ, bán buôn
+win	/wɪn/	v	thắng, chiến thắng
+withdraw	/wɪðˈdrɑː/	v	rút
+withdrawal	/wɪðˈdrɑː.əl/	n	sự rút ra (tiền)
+workplace	/ˈwɝːk.pleɪs/	n	nơi làm việc
+workshop	/ˈwɝːk.ʃɑːp/	n	hội thảo
+worth	/wɝːθ/	adj	giá trị
+worthless	/ˈwɝːθ.ləs/	adj	không có giá trị, vô giá trị
+wrap	/ræp/	v	gói, bọc lại
+write	/raɪt/	v	viết, sáng tác
+yearly	/ˈjɪr.li/	adv	hằng năm
+yield	/jiːld/	v	sản xuất, cung cấp
+youth	/juːθ/	n	tuổi trẻ, thời thanh xuân
+zero	/ˈzɪr.oʊ/	n	số 0
+zone	/zoʊn/	n	vùng, khu vực
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

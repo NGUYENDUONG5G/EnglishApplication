@@ -53,6 +53,10 @@ public class HelloController implements Initializable {
                 notification.setText("Adding word fail !");
             } else {
                 notification.setText("Adding word succeed !");
+                nameWord.clear();
+                pronunciation.clear();
+                type.clear();
+                meaning.clear();
             }
             notification.setVisible(true);
             PauseTransition delay = new PauseTransition(Duration.seconds(3));
@@ -63,7 +67,7 @@ public class HelloController implements Initializable {
             FXMLLoader fxmlLoader = new FXMLLoader(getClass().getResource("learning-location.fxml"));
             Parent root = fxmlLoader.load();
             Stage stage = (Stage) play.getScene().getWindow();
-            stage.setTitle("Hello!");
+            stage.setTitle("Dương's App");
             stage.setScene(new Scene(root));
         } else if (event.getSource() == buttonSearch) {
             setShowResult();
@@ -81,7 +85,7 @@ public class HelloController implements Initializable {
 
     public void setShowResult() {
         String search=enterSearch.getText().toLowerCase();
-        Word word = dictionary.getDict().get(search);
+        Word word = dictionary.getDictWord().get(search);
         if(word!=null){
         showResult.setText("/ "+word.getWord() + " /- "
                 + word.getPronunciation() + " -/ "

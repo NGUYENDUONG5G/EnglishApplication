@@ -2,11 +2,10 @@ package org.example.myenglish;
 
 import java.io.*;
 import java.util.HashMap;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 
 public class Dictionary {
-    private static HashMap<String, Word> dict = new HashMap<>();
+    private static HashMap<String, Word> dictWord = new HashMap<>();
+    private static HashMap<String,Word> dictMean=new HashMap<>();
 
     public Dictionary() {
         try (BufferedReader br = new BufferedReader(new FileReader("D:\\MyEnglish\\src\\main\\resources\\listWord.txt"))) {
@@ -15,7 +14,8 @@ public class Dictionary {
                 String[] parts = line.trim().split("\t");
                 if (parts.length == 4) {
                     Word word = new Word(parts[0], parts[1], parts[2], parts[3]);
-                    dict.put(parts[0], word);
+                    dictWord.put(parts[0], word);
+                    dictMean.put(parts[3],word);
                 }
             }
         } catch (IOException e) {
@@ -23,8 +23,12 @@ public class Dictionary {
         }
     }
 
-    public static HashMap<String, Word> getDict() {
-        return dict;
+    public static HashMap<String, Word> getDictWord() {
+        return dictWord;
+    }
+
+    public static HashMap<String, Word> getDictMean() {
+        return dictMean;
     }
 
     public static void saveWordToDatabase(Word word) {
@@ -50,7 +54,7 @@ public class Dictionary {
 
     public static void saveWordToDatabase() {
         try (BufferedWriter fw = new BufferedWriter(new FileWriter("D:\\MyEnglish\\src\\main\\resources\\listWord.txt"))) {
-            for (Word word : dict.values()) {
+            for (Word word : dictWord.values()) {
 
                 fw.write(word.getWord());
                 fw.write("\t");
@@ -68,21 +72,21 @@ public class Dictionary {
 
     public boolean addWord(String nameWord, String pronunciation, String typeOfWord, String meaning) {
 
-        if (dict.containsKey(nameWord) ||
+        if (dictWord.containsKey(nameWord) ||
                 nameWord.length()==0 ||
                 pronunciation.length()==0 ||
                 typeOfWord.length()==0 ||
                 meaning.length()==0
         ) return false;
         Word word = new Word(nameWord, pronunciation, typeOfWord, meaning);
-        dict.put(nameWord, word);
+        dictWord.put(nameWord, word);
         saveWordToDatabase(word);
         return true;
     }
 
     public boolean updateWord(String name, String locationUpdate, String content) {
         if (content == null) return false;
-        Word word = dict.get(name);
+        Word word = dictWord.get(name);
         if (locationUpdate.equals("name")) {
             word.setWord(content);
 
@@ -101,8 +105,8 @@ public class Dictionary {
     }
 
     public boolean deleteWord(String name) {
-        if (!dict.containsKey(name)) return false;
-        dict.remove(name);
+        if (!dictWord.containsKey(name)) return false;
+        dictWord.remove(name);
         saveWordToDatabase();
         return true;
 
